@@ -18,9 +18,7 @@ const Header = () => {
             sizes="100vw"
             className="w-[60px] h-[50px]"
           />
-          <p className="font-poppins italic font-semibold">
-            Event <span className="text-primary-500">Masters</span>{" "}
-          </p>
+          <p className="font-poppins italic font-semibold">Evently</p>
         </Link>
 
         <SignedIn>
